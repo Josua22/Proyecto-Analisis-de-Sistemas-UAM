@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace PL_UI
+namespace PL_UI.Menu
 {
-    public partial class Form1 : Form
+    public partial class FRM_CItas : Form
     {
-        public Form1()
+        public FRM_CItas()
         {
             InitializeComponent();
         }
